@@ -1,8 +1,10 @@
 ### Hi there my name is Vinicius Campos 👋.
-### I'm a Msc mechanical engineer.
-### I work as a teacher and engineering consultant in computacional analysis, in special   
 
 - 🔭 I’m currently working on python dev
-- 😄 Pronouns: He/Him
+- 🖥 Current projects: <a href='https://github.com/easycae-3d/myfempy'>myfempy</a>
+- 🎓 Mechanical engineer, msc
+- ❤ Finite elements method,
+- 😄 Pronouns: he/him
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+
+![Vinicius Status](https://github-readme-stats.vercel.app/api?username=antonio-vinicius-garcia-campos&show_icons=true&theme=dark&include_all_commits=true)
