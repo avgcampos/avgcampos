@@ -9,7 +9,8 @@
 
 ##
 ### Projects
-- 🖥 Finite Elements: <a href='https://github.com/easycae-3d/myfempy'>myfempy</a>
+- 🖥 Finite Elements: [myfempy](https://github.com/easycae-3d/myfempy)
+- 🌉 Structural Beam Solver: [sbspy](https://github.com/antonio-vinicius-garcia-campos/sbspy)
 
 ##
 ### Languages
