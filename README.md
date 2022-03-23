@@ -24,11 +24,6 @@
 
 ### Contact
 
-<!-- 
-
-<div>
-  <a href='https://github.com/easycae-3d/myfempy'>myfempy</a>
-  <a href='https://github.com/easycae-3d/myfempy'>myfempy</a>
-</div>
-
--->
+- ✉ Email: antviniciuscampos@gmail.com
+- 🤝 Linkedin: [Meu Perfil](https://www.linkedin.com/in/antonio-vinicius-garcia-campos/)
+- 👨‍🔬 Resume: [Lattes/BR](http://lattes.cnpq.br/8098900392634122) / [ORCiD](https://orcid.org/0000-0003-1678-384X)
