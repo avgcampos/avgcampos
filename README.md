@@ -1,7 +1,7 @@
 ### Hi there my name is Vinicius Campos 👋
 
 - 🎓 Mechanical Engineer, MSc
-- ❤ Structural & Mechanical Design | Vibration Analysis | FEA&CAD | Python Dev. 
+- 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA&CAD | Python Dev. 
 - 😄 Pronouns: he/him
 
 ### Stats
