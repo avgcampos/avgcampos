@@ -1,8 +1,8 @@
 ### Hi there my name is Vinicius Campos 👋
 
-- 🎓 Mechanical Engineer, MSc
+- 🎓 Mechanical Engineer, PhD student.
 - 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA&CAD | Python Dev. 
-- 😄 Pronouns: he/him
+- 🚀 [3DEasyCAE](https://www.linkedin.com/company/3d-easycae) Founder
 
 ### Stats
 ![Vinicius Status](https://github-readme-stats.vercel.app/api?username=antonio-vinicius-garcia-campos&show_icons=true&theme=dark&include_all_commits=true)
