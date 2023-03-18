@@ -1,7 +1,7 @@
 ### Hi there my name is Vinicius Campos 👋
 
 - 🎓 Mechanical Engineer, PhD student.
-- 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA&CAD | Python Dev. 
+- 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA & CAD | Python Dev. 
 - 🚀 [3D EasyCAE](https://www.linkedin.com/company/3d-easycae) Founder
 
 ### Stats
