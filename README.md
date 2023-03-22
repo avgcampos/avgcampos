@@ -4,8 +4,9 @@
 - 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA & CAD | Python Dev. 
 - 🚀 [3D EasyCAE](https://www.linkedin.com/company/3d-easycae) Founder
 
-### Stats
-![Vinicius Status](https://github-readme-stats.vercel.app/api?username=antonio-vinicius-garcia-campos&show_icons=true&theme=dark&include_all_commits=true)
+<!-- ### Stats -->
+<!--![Vinicius Status](https://github-readme-stats.vercel.app/api?username=antonio-vinicius-garcia-campos&show_icons=true&theme=dark&include_all_commits=true)
+-->
 
 ##
 ### Projects
