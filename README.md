@@ -1,4 +1,4 @@
-### Hi there my name is Vinicius Campos 👋
+### Hi there my name is Antonio Campos 👋
 
 - 🎓 Mechanical Engineer, PhD student.
 - 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA & CAD | Python Dev. 
