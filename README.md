@@ -2,7 +2,7 @@
 
 - 🎓 Mechanical Engineer, PhD student.
 - 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA & CAD | Python Dev.
-- :earth_americas: [My Personal Website (under construction)](https://avgcampos.github.io/)
+- :earth_americas: [My Personal Website (under construction)]()
 <!--- 🚀 [3D EasyCAE](https://www.linkedin.com/company/3d-easycae) Founder -->
 
 
