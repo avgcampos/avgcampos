@@ -2,7 +2,7 @@
 
 - 🎓 Mechanical Engineer, PhD student.
 - 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA & CAD | Python Dev.
-- :earth_americas: [My Personal Website (under construction)]()
+<!--- - :earth_americas: [My Personal Website (under construction)]() -->
 <!--- 🚀 [3D EasyCAE](https://www.linkedin.com/company/3d-easycae) Founder -->
 
 
@@ -19,8 +19,8 @@
 ### Languages
 <div style='display: inline_block'><br>
   <img align='center' alt='vini-python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align='center' alt='vini-python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img align='center' alt='vini-python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align='center' alt='vini-python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   
 </div>
 
