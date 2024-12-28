@@ -1,7 +1,9 @@
 ### Hi there my name is Antonio Campos 👋
 
-- 🎓 Mechanical Engineer, PhD student.
+- :man_teacher: Assistant Professor at UFPI
+- 🎓 Mechanical Engineer, PhD student at UNICAMP
 - 👨‍🚀 Structural & Mechanical Design | Vibration Analysis | FEA & CAD | Python Dev.
+
 <!--- - :earth_americas: [My Personal Website (under construction)]() -->
 <!--- 🚀 [3D EasyCAE](https://www.linkedin.com/company/3d-easycae) Founder -->
 
