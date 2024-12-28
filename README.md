@@ -30,6 +30,6 @@
 
 ### Contact
 
-- ✉ Email: antonio.garcia@ufpi.edu.br
+- ✉ E-mail: antonio.garcia*ufpi.edu.br
 - 🤝 Linkedin: [Meu Perfil](https://www.linkedin.com/in/antonio-vinicius-garcia-campos/)
 - 👨‍🔬 Resume: [Lattes/BR](http://lattes.cnpq.br/8098900392634122) / [ORCiD](https://orcid.org/0000-0003-1678-384X)
