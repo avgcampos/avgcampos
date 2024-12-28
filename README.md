@@ -14,7 +14,7 @@
 
 ##
 ### Projects
-- 🖥 Finite Elements Method: [myfempy](https://github.com/easycae-3d/myfempy)
+- 🖥 MultiphYsics Finite Elements Module to PYthon: [myfempy](https://github.com/easycae-3d/myfempy)
 - 🌉 Structural Beam Solver: [BeamSolver](https://github.com/avgcampos/BeamSolver)
 
 ##
