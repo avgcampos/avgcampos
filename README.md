@@ -17,12 +17,16 @@
 - 🖥 MultiphYsics Finite Elements Module to PYthon: [myfempy](https://github.com/easycae-3d/myfempy)
 - 🌉 Structural Beam Solver: [BeamSolver](https://github.com/avgcampos/BeamSolver)
 
+
 ##
-### Languages
+### Languages and Softwares
 <div style='display: inline_block'><br>
   <img align='center' alt='vini-python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align='center' alt='vini-python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align='center' alt='vini-python' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  <img align='center' alt='vini-python' height='60' width='80' src="https://github.com/user-attachments/assets/e8b6e8f3-e70d-4736-b33a-7893b386989d" />
+ 
+  
   
 </div>
 
